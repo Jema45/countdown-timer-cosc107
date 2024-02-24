@@ -1,0 +1,116 @@
+body{
+    background-color: #555;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+}
+img{
+    width: 550px;
+    border-radius: 15px;
+
+}
+.container1{
+    padding: 80px;
+}
+.container2{
+    padding-left:15px ;
+    text-align: left;
+   
+}
+.container2 h3{
+    font-size: 30px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.container2 h4{
+    display: block;
+  letter-spacing: 2px;
+  font-size: 20px;
+}
+.container p{
+    display: block;
+    letter-spacing: 2px;
+    font-size: 20px; 
+
+}
+.container3{
+    display: flex;
+    flex-direction: row;
+}
+.timer{
+    background-color: black;
+    color: white;
+    border: 2px solid black;
+    display: flex;
+    flex-basis: 80px;
+    padding: 0px;
+    margin: 5px;
+    border-radius: 10px; 
+    text-align: center;
+}
+.timer span{
+    display: block;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 0.85rem;
+  text-align: center;
+}
+.timer1{
+    background-color: black;
+    color: white;
+    border: 2px solid black;
+    display: flex;
+    flex-basis: 80px;
+    padding: 0px;
+    margin: 5px;
+    border-radius: 10px; 
+    text-align: center;
+    
+}
+.timer1 span{
+    display: block;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 0.85rem;
+  text-align: center;
+}
+.timer2{
+    background-color: black;
+    color: white;
+    border: 2px solid black;
+    display: flex;
+    flex-basis: 80px;
+    padding: 0px;
+    margin: 5px;
+    border-radius: 10px;  
+    text-align: center;
+}
+.timer2 span{
+    display: block;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 0.85rem;
+  text-align: center;
+}
+.timer3{
+    background-color: black;
+    color: white;
+    border: 2px solid black;
+    display: flex;
+    flex-basis: 80px;
+    padding: 0px;
+    margin: 5px;
+    border-radius: 10px; 
+    text-align: center;  
+}
+.timer3 span{
+    display: block;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 0.85rem;
+  text-align: center;
+}
